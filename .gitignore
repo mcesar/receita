@@ -1,0 +1,5 @@
+*.jar
+*.class
+*_.java
+*/target/*
+.DS_Store
